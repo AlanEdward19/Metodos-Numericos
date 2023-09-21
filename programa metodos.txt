@@ -1,0 +1,17 @@
+Quantos termos vai ter a sua equação
+
+
+avisar se estiver usando locale.h (para inserir dados com , ao inves de .)
+
+perguntar qual o valor do 1 (no caso n) coeficiente dps seu expoente (da pra fzr num for) (TUDO NA MESMA LINHA, EX: 1 3 (1 seria o coeficiente e 3 expoente))
+
+perguntar o intervalo
+
+perguntar a precisao
+
+resultado deve ser uma tabela com todas as interações e ao final retornar a raiz da função é (valor) com erro de (valor) e demonstrar no final quantas iterações foram usadas
+
+OBS: Tem print da tela final no canvas
+
+PLUS: perguntar qual o criterio de parada
+
